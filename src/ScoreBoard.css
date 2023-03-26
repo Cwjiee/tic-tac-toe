@@ -1,0 +1,36 @@
+.status{
+    margin: 20px auto;
+    width: 350px;
+    font-size:xx-large;
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+    display: flex;
+    border-radius: 5px;
+}
+
+.score{
+    display: inline-block;
+    width: 175px;
+    text-align: center;
+    border-color: black;
+    box-shadow: 0px 0px 8px #666666;
+    height: 40px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.x-score{
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    color: red;
+    border-color: red;
+}
+
+.o-score{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: blue;
+}
+
+
+
